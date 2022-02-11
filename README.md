@@ -1,4 +1,5 @@
 # Godot Rumble Example Project
-Example Godot Project demonstrating gamepad/phone rumble.
+Example Godot Project demonstrating gamepad and phone rumble.
 
-![](icon.png)
+![](screenshots/rumble_control_menu.png)
+
