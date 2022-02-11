@@ -21,7 +21,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Rumble Example Demo"
-run/main_scene="res://MainScene.tscn"
+run/main_scene="res://RumbleControlMenu.tscn"
 config/icon="res://icon.png"
 
 [physics]
