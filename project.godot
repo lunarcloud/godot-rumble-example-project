@@ -12,7 +12,7 @@ _global_script_classes=[ {
 "base": "Control",
 "class": "RumbleControl",
 "language": "GDScript",
-"path": "res://RumbleControl/RumbleControl.gd"
+"path": "res://rumble_control/rumble_control.gd"
 } ]
 _global_script_class_icons={
 "RumbleControl": ""
@@ -21,7 +21,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Rumble Example Demo"
-run/main_scene="res://RumbleControlMenu.tscn"
+run/main_scene="res://rumble_control_menu.tscn"
 config/icon="res://icon.png"
 
 [physics]

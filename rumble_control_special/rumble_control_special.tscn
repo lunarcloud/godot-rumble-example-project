@@ -1,0 +1,9 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://rumble_control_special/rumble_control_special.gd" type="Script" id=1]
+[ext_resource path="res://rumble_control/rumble_control.tscn" type="PackedScene" id=2]
+
+[node name="Rumble Control" instance=ExtResource( 2 )]
+script = ExtResource( 1 )
+duration = 2.0
+mobile_duration = 1000

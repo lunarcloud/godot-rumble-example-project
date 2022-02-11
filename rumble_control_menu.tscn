@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=2]
 
-[ext_resource path="res://RumbleControl/RumbleControl.tscn" type="PackedScene" id=1]
-[ext_resource path="res://RumbleControlSpecial/RumbleControlSpecial.tscn" type="PackedScene" id=2]
+[ext_resource path="res://rumble_control/rumble_control.tscn" type="PackedScene" id=1]
+[ext_resource path="res://rumble_control_special/rumble_control_special.tscn" type="PackedScene" id=2]
 
 [node name="RumbleControlMenu" type="HBoxContainer"]
 anchor_right = 1.0
@@ -56,4 +56,4 @@ margin_top = 0.0
 margin_right = 984.0
 margin_bottom = 560.0
 label = "Special "
-mobile_duration = 2000
+handheld_duration = 1000
